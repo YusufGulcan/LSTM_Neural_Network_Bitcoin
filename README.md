@@ -5,7 +5,7 @@ In this project, I gathered tweets from Twitter, search trends from Google and h
 The tweets are processed with the VADER sentiment analysis model and converted into numerical sentiment values. 
 Sentiment analysis results,Google search trends values and Bitcoin historical price data are merged into one data frame and used as input. 
 
-I used APIs and created pipelines to keep both the data and predictions up to date. The data is consisted 1500 rows, each representing 1 day. The features are 
+I used APIs to collect data and created pipelines to keep both the data and predictions up to date. The data is consisted of 1500 rows, each representing 1 day. The features are 
 
 ## Libraries and Dependencies
 - python-binance  - Bitcoin Prices 
